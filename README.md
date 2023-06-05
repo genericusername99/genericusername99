@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @genericusername99
 - 👀 I’m interested in everything around and about bioinformatics.
-- 🌱 I’m currently learning how to code in C0 and Python.
+- 🌱 I’m currently learning how to code in Racket, C0, Java and Python.
 - 💞️ I’m looking to collaborate on nothing particular.
 - 📫 How to reach me: robinsalzmann@outlook.de
