@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @genericusername99
 - 👀 I’m interested in everything around and about bioinformatics.
-- 🌱 I’m currently learning how to code in Racket and Java.
+- 🌱 I’m currently learning how to code in Java, Racket, Python and Scala.
 - 💞️ I’m looking to collaborate on nothing particular.
